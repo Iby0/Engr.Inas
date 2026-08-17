@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pritu0.github.io/test-2/sitemap.xml
